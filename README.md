@@ -6,8 +6,8 @@
 
 ### Basic Express App
 
-1. Initialize node in this directory (`npm init1`)
-2.install `express`
+1. Initialize node in this directory (`npm init -y`)
+2. install `express`
 5. create an entry point (`index.js`) file
 6. inside `index.js`, require express and save it to a variable named `express`
 7. create a variable named app, and set it equal to `express()`
