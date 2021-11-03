@@ -21,6 +21,11 @@ app.get('/martin', (req, res)=> {
     res.send("You may think it's tough being middle-aged, but think about me. I got a son who's middle-aged.")
 })
 
+app.get('/Scrappy', (req, res)=> {
+    res.send("woof")
+    // browser is not case senstitive 
+})
+
 app.listen(3000, ()=> {
     console.log("Hello, Seattle. I'm listening...")
 })
