@@ -1,0 +1,23 @@
+{
+  "name": "frasier-routes",
+  "version": "1.0.0",
+  "description": "### Make sure you shut down your previous app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimBarr1991/Frasier-Routes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimBarr1991/Frasier-Routes/issues"
+  },
+  "homepage": "https://github.com/TimBarr1991/Frasier-Routes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
