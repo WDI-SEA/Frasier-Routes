@@ -38,8 +38,8 @@ Are URLs case sensitive? Let's test:
 1. create a GET route for `/Scrappy`
 * it should send a response of "woof"
   1. test the `/Scrappy` route by going to...
-* [http://localhost:3000/scrappy](http://localhost:3000/scrappy) - what happened?
-* [http://localhost:3000/Scrappy](http://localhost:3000/Scrappy) - what happened?
+* [http://localhost:3000/scrappy](http://localhost:3000/scrappy) - what happened? Says woof
+* [http://localhost:3000/Scrappy](http://localhost:3000/Scrappy) - what happened? Still says woof
 
 ## Hungry For More
 
